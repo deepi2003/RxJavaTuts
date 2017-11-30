@@ -1,8 +1,8 @@
 package org.deepti.tuts.RxJavaTuts;
 
-import rx.Observable;
-import rx.subjects.PublishSubject;
-import rx.subjects.ReplaySubject;
+import io.reactivex.Observable;
+import io.reactivex.subjects.PublishSubject;
+import io.reactivex.subjects.ReplaySubject;
 
 public class Application {
 
